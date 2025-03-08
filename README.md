@@ -23,6 +23,7 @@ Once you have read through the documentation, you can visit [Awesome Noir](https
 ## Getting Help
 
 Join the Noir [forum][Forum] or [Discord][Discord]
+[X][X]
 
 ## Contributing
 
